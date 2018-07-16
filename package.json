@@ -1,0 +1,27 @@
+{
+  "name": "search_login_widget",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "html-webpack-plugin": "^3.2.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-jss": "^8.6.1",
+    "react-scripts": "1.1.4",
+    "webpack": "^4.16.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.0.8",
+    "webpack-command": "^0.4.1"
+  }
+}

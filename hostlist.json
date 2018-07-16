@@ -1,0 +1,20 @@
+[
+    {
+        "projectName": "Asna",
+        "hosts": [
+            "host1",
+            "host2",
+            "host3",
+            "host4"
+        ]
+    },
+    {
+        "projectName": "Planeta",
+        "hosts": [
+            "host1",
+            "host2",
+            "host3",
+            "host4"
+        ]
+    }
+]
